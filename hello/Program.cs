@@ -18,7 +18,7 @@ namespace ANameSpace
 
             static void Main(string[] args)
             {
-                System.Console.WriteLine("Hello, I’m Jessica, also known as Professor Bayliss.");
+                Console.WriteLine("Hello, I’m Jessica, also known as Professor Bayliss.");
                 Console.WriteLine("I hate code that doesn’t fit on a single slide.");
                 Console.WriteLine("This summer, I had fun playing Jurassic World Evolution.");
                 Console.Write("Unfortunately, I named all the dino’s after ");
